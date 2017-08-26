@@ -1,0 +1,14 @@
+
+itemGroup.etlunar.etlunar=环境科技|月亮
+itemgroup.etlunar.etlunar=环境科技|月亮
+
+tile.etlunar.lunar_cont_1.name=1级月亮阵列控制器
+tile.etlunar.lunar_cont_2.name=2级月亮阵列控制器
+tile.etlunar.lunar_cont_3.name=3级月亮阵列控制器
+tile.etlunar.lunar_cont_4.name=4级月亮阵列控制器
+tile.etlunar.lunar_cont_5.name=5级月亮阵列控制器
+tile.etlunar.lunar_cont_6.name=6级月亮阵列控制器
+
+tile.etlunar.lunar_cell_mica.name=云母月亮元件
+
+item.etlunar.lunarvoltaic_cell.name=月亮伏尔泰元件
